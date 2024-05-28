@@ -68,22 +68,5 @@ It will show the posts from category with id "4" and total posts per slide would
 7. This is the slider created using shortcode with the text settings [post-slides cat_id="4" totalpost="4"].
 
 == Changelog ==
-= 1.3 =
-- Updated with wordpress 5.7
-- Design fixes.
-
-= 1.2 =
-- Updated with latest wordpress version.
-- Design fixes.
-- Bug fixes.
-
-= 1.2 =
-- Updated with latest wordpress version
-- Changes default setting options
-- Design fixes
-
-= 1.1 =
-New updated plugin with additional and enhanced settings.
-
 = 1.0 =
 Initial Release.
