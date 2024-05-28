@@ -3,7 +3,7 @@
 Plugin Name: Multi Post Carousel
 Plugin URI: https://wordpress.org/plugins/multi-post-carousel/
 Description: WordPress multipost carousel to show post in the count of 4,8,12 and vice-versa in one slide
-Version: 1.3
+Version: 1.0
 Author: GBS Developer
 Author URI: https://globalbizsol.com/
 License: GPL2
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
-define('MU_PC_VERSION', '1.3');
+define('MU_PC_VERSION', '1.0');
 define('MU_PC_FILE', basename(__FILE__));
 define('MU_PC_NAME', str_replace('.php', '', MU_PC_FILE));
 define('MU_PC_PATH', plugin_dir_path(__FILE__));
